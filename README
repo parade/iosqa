@@ -1,0 +1,6 @@
+### iOSQA
+
+This app reads in tabs.json and creates a UITabView with a UIWebView for the `url` attribute under
+each tab item, wired to its `Display` name and a default icon.
+
+This facilitates testing of given pages across devices and builds. 

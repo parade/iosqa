@@ -1,0 +1,24 @@
+{ "pages": [
+    { "title": "Member", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/member/me/" },
+    { "title": "Search", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/?q=spaghetti" },
+    { "title": "Generic", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/about-us/" },
+    { "title": "Homepage", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/" },
+    { "title": "Channel", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/living" },
+    { "title": "Section", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/royal-family" },
+    { "title": "Tag", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/tag/dwts" },
+    { "title": "Article", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/17665/marilynvossavant/how-are-numbrix-difficulty-levels-determined/" },
+    { "title": "Gallery", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/67180/parade/marilyn-in-1986-number-10/" },
+    { "title": "Fullscreen Gallery", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/249355/iraphael/nicolas-cage-top-10-movie-hairstyles/#fullscreen_gallery" },
+    { "title": "Kennections", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/293417/kenjennings/kennections-182-this-planet-was-discovered-in-1930/" },
+    { "title": "Quiz", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/59533/allisontakeda/the-ultimate-harry-potter-quiz/" },
+    { "title": "Poll", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/61849/viannguyen/would-you-want-to-live-to-age-120/" },
+    { "title": "Recipe", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/134172/johncurrence/city-grocery-bloody-marys/" },
+    { "title": "Recipe Print", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/134172/johncurrence/city-grocery-bloody-marys/print/" },
+    { "title": "Member", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/member/viannguyen/" },
+    { "title": "Numbrix", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/numbrix" },
+    { "title": "Login", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/login/" },
+    { "title": "Registration", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/register/" },
+    { "title": "Freebie", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/win" },
+    { "title": "Standalone", "url": "http://testing:jGkP0B4Xm%2F15FNXdjzIE%2FX0oJQ59V6QSNF8YqHpixBg%3D@stage.parade.condenast.com/270081/beau-howell-autistic-basketball-trinity-team-vtr/" }
+  ]
+}
