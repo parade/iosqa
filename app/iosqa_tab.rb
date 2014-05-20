@@ -26,7 +26,7 @@ class IOSQATab < UIViewController
     @webView = UIWebView.alloc.initWithFrame(UIScreen.mainScreen.applicationFrame)
     @webView.backgroundColor = UIColor.grayColor
     @webView.scalesPageToFit = true
-    #@webView.autoresizingMask = (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight)
+    @webView.autoresizingMask = (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight)
     @webView.delegate = self
     self.tabBarItem.title = tab[ :title ]
     @webView.loadRequest(NSURLRequest.requestWithURL(NSURL.URLWithString(tab[ :url ])))
@@ -34,7 +34,7 @@ class IOSQATab < UIViewController
 
   # True if we're showing a status bar that's not translucent
   def wantsFullScreenLayout
-    false
+    true
   end
 
   # Only add the web view when the page has finished loading

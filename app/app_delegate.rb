@@ -12,7 +12,10 @@ class AppDelegate
       tabs.push(tab)
     end
     tabbar.viewControllers = tabs
+    tabbar.tabBar.selectedImageTintColor = UIColor.blackColor
+    tabbar.tabBar.tintColor = UIColor.blackColor
     @window.rootViewController = UINavigationController.alloc.initWithRootViewController(tabbar)
+    @window.rootViewController.navigationBar.tintColor = UIColor.blackColor
     @window.rootViewController.wantsFullScreenLayout = true
     @window.makeKeyAndVisible
     true
