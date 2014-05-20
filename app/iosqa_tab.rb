@@ -53,12 +53,12 @@ class IOSQATab < UIViewController
     true
   end
 
-  # Open absolute links in Mobile Safari
   def webView(inWeb, shouldStartLoadWithRequest:inRequest, navigationType:inType)
-    if inType == UIWebViewNavigationTypeLinkClicked && inRequest.URL.scheme != 'file'
-      UIApplication.sharedApplication.openURL(inRequest.URL)
-      return false
-    end
+    # Open absolute links in Mobile Safari
+    #if inType == UIWebViewNavigationTypeLinkClicked && inRequest.URL.scheme != 'file'
+    #  UIApplication.sharedApplication.openURL(inRequest.URL)
+    #  return false
+    #end
     true
   end
 
