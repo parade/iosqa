@@ -26,7 +26,7 @@ class IOSQATab < UIViewController
     @webView = UIWebView.alloc.initWithFrame(UIScreen.mainScreen.applicationFrame)
     @webView.backgroundColor = UIColor.grayColor
     @webView.scalesPageToFit = true
-    @webView.autoresizingMask = (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight)
+    #@webView.autoresizingMask = (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight)
     @webView.delegate = self
     self.tabBarItem.title = tab[ :title ]
     @webView.loadRequest(NSURLRequest.requestWithURL(NSURL.URLWithString(tab[ :url ])))
