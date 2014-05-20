@@ -2,3 +2,4 @@ resources/config.json
 .DS_STORE
 .repl_history
 build
+profiles/*

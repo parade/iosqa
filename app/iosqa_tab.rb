@@ -10,8 +10,7 @@ class IOSQATab < UIViewController
   end
 
   def loadView
-    #UIScreen.mainScreen.applicationFrame
-    self.view = UIView.alloc.init
+    self.view = UIView.alloc.initWithFrame(UIScreen.mainScreen.applicationFrame)
     self.view.backgroundColor = UIColor.whiteColor
   end
 
@@ -24,7 +23,7 @@ class IOSQATab < UIViewController
   end
 
   def showTab(tab)
-    @webView = UIWebView.alloc.initWithFrame(UIScreen.mainScreen.bounds)
+    @webView = UIWebView.alloc.initWithFrame(UIScreen.mainScreen.applicationFrame)
     @webView.backgroundColor = UIColor.grayColor
     @webView.scalesPageToFit = true
     @webView.autoresizingMask = (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight)
